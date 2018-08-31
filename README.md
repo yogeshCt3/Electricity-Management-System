@@ -1,2 +1,2 @@
 # Electricity-Management-System
-EMS using C language
+Electricity Management System Crated using C Language.
